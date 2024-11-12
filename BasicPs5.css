@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(Disconnected.png);
+    background: url(https://imgur.com/6BAIwBz.png);
 }
 
 .ds4.disconnected div {
@@ -26,7 +26,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(Trigger_Pressed.png);
+    background: url(https://imgur.com/3v9bku1.png);
     opacity: 0;
 }
 
@@ -91,7 +91,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(Home.png) no-repeat center;
+    background: url(https://imgur.com/vbSHb6O.png) no-repeat center;
 }
 
 .ds4 .p0{
@@ -115,7 +115,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(Select.png);
+    background: url(https://imgur.com/MYw5AAn.png);
     width: 26px;
     height: 43px;
     opacity: 0;
@@ -234,7 +234,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(Dpad.png);
+    background: url(https://imgur.com/WwLMEt8.png);
     position: absolute;
 }
 
@@ -284,7 +284,7 @@ background-position: 0 -70px;
 /*END PS4 Controller Styling*/
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(Start.png);
+    background-image: url(https://imgur.com/mMSXwzE.png);
     width: 26px;
     height: 43px;
 }

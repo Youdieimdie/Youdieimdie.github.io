@@ -42,7 +42,7 @@
 .ds4 .bumper {
     width: 200px;
     height: 45px;
-    background: url(Bumper.png) no-repeat;
+    background: url(https://imgur.com/rbw6vTlpng) no-repeat;
     opacity: 0;
 }
 
@@ -78,7 +78,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(Touchpad.png) no-repeat center;
+    background: url(https://imgur.com/4ZeztSK.png) no-repeat center;
     opacity: 1;
 }
 
